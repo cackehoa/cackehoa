@@ -10,5 +10,5 @@ Chú ý: mình làm điều này vì những người kém hoặc khó học ti�
 Hiện tại mình mới manh nha bắt đầu viết (đúng hơn là dịch) thôi. Mình hy vọng **trong tương lai** bản dịch này sẽ chứa đầy đủ những gì liên quan đến [github](https://github.com).
 ## Danh mục hướng dẫn:
 1. Github là gì?
-2. Nhiều hơn
-3. [Tải về lưu trữ (repositories) hay dự án (projects) trên github](/huongdan/DOWNLOAD.md)
+2. [Tải về lưu trữ (repositories) hay dự án (projects) trên github](/huongdan/DOWNLOAD.md)
+3. Nhiều hơn
