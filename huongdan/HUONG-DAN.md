@@ -11,3 +11,4 @@ Hiện tại mình mới manh nha bắt đầu viết (đúng hơn là dịch) t
 ## Danh mục hướng dẫn:
 1. Github là gì?
 2. Nhiều hơn
+3. [Tải về lưu trữ (repositories) hay dự án (projects) trên github](/huongdan/DOWNLOAD.md)
