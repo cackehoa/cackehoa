@@ -7,7 +7,7 @@ Mình là nông dân thích chơi trò chơi chỉ là trình độ tiếng Anh 
 Nếu chưa biết cách sữ dụng [github](https://github.com) thì bạn có thể xem thêm [ở đây](/huongdan/HUONG-DAN.md)
 
 ## Liên lạc và ủng hộ
-Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
+Ủng hộ tại: [Playerduo](https://playerduo.net/cackehoa)
 
 Fanpage: [fb](https://www.facebook.com/cackehoa)
 
